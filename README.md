@@ -16,10 +16,5 @@ Or, clone the repository(or, download), download all the requirements.txt file a
 
 Note - You need to download the Flicker8K dataset and add the main folder to the repo in order to display the images whose caption you are prdicting.
 
-## MODEL SUMMARY(of LSTM model)
-
-## Screenshots
-
-![App Screenshot](images/Screenshot%202021-09-11%20154750.png)
 
   
